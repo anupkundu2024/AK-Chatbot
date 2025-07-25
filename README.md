@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Node.js Chatbot with Express and MongoDB
 
 A simple chatbot backend API built with Node.js, Express, and MongoDB.
@@ -71,3 +72,7 @@ Then install nodemon as a dev dependency:
 ```
 npm install --save-dev nodemon
 ```
+=======
+# AK-Chatbot
+To create this project using vibe coding + Ai prompts only
+>>>>>>> a37be49b24c744c55a34a9e807f68baf8312401c
